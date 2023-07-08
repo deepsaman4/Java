@@ -4,22 +4,32 @@ import java .util.*;
 
 public class Recent {
     public static void main(String[] args) {
+        System.out.println("welcome to calculator");
 Scanner sc =new Scanner (System .in);
-int a=sc.nextInt();
-int b=sc.nextInt();
-int n=sc.nextInt();
-if(n==1){
-    System.out.println(a+b);
-} else if (n==2){
-    System.out.println(a-b);
-} else if (n==3){
-    System.out.println(a*b);
-} else if (n==4){
-    System.out.println(a/b);
-} else if (n==5){
-    System.out.println(a%b);
+        System.out.println("Press 1 for addition");
+        System.out.println("press 2 for subtraction");
+        System.out.println("press 3 for multiplication");
+        System.out.println("press 4 for division");
+        System.out.println("Press 5 for modulo");
+        System.out.println(" Please enter input");
+        int input =sc.nextInt();
+        System.out.println("enter num1");
+        int num1=sc.nextInt();
+        System.out.println("Enter num2");
+int num2=sc.nextInt();
+
+if(input==1){
+    System.out.println(num1+num2);
+} else if (input==2){
+    System.out.println(num1-num2);
+} else if (input==3){
+    System.out.println(num1*num2);
+} else if (input==4){
+    System.out.println(num1/num2);
+} else if (input==5){
+    System.out.println(num1%num2);
 } else {
-    System.err.println("invalid n");
+    System.err.println("invalid input");
 }
 
     }
