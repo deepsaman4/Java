@@ -14,9 +14,7 @@ public class Practice {
         {
             System.out.println("eligible for driving license");
         }
-        int n= sc.nextInt();
-        for(int i=0;i<21;i++){
-            System.out.println(n*i);
+
         }
 
 
