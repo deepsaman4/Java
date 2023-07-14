@@ -18,8 +18,8 @@ while(i<10){
  for (i=1;i<11;i++){
      System.out.println(i);
 
-     int a=8;
-     int b=9;
+     int a=5;
+     int b=8;
 
  }
     }
