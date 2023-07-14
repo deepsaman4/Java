@@ -17,5 +17,8 @@ i++;
         System.out.println(sum);
         double average=(double)sum/5;
         System.out.println(average);
+        System.out.println("java");
+        int a=0;
+        int b=9;
     }
 }
