@@ -20,9 +20,14 @@ i++;
         System.out.println("java");
         int a=0;
         int b=9;
+<<<<<<< Updated upstream
 
         System.out.println("hello java");
 
 
+=======
+        System.out.println("hello java");
+
+>>>>>>> Stashed changes
     }
 }
