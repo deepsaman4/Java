@@ -16,15 +16,16 @@ public class Table {
         i=1;
         num=sc.nextInt();
         while(i<21){
-            System.out.println( num +"*" + i + "=" + num*i);
+            System.out.println(   num*i);
             i++;
         }
 
        num=sc.nextInt();
         for(i=0;i<21;i++){
-            System.out.println( num + "*" + i + "="  + num*i);
+            System.out.println( num*i);
         }
 
-
+        System.out.println("java");
+        System.out.println("hello");
     }
 }

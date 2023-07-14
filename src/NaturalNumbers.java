@@ -17,6 +17,7 @@ while(i<10){
 }
  for (i=1;i<11;i++){
      System.out.println(i);
+     System.out.println("java");
  }
     }
 }
