@@ -20,5 +20,7 @@ i++;
         System.out.println("java");
         int a=0;
         int b=9;
+        int c=9;
+        int d=0;
     }
 }
