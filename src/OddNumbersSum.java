@@ -14,5 +14,7 @@ public class OddNumbersSum {
             sum=sum+i;
         }
         System.out.println(sum);
+        System.out.println("java");
+        System.out.println("hello");
     }
 }
