@@ -25,12 +25,9 @@ public class Table {
             System.out.println( num*i);
         }
 
-<<<<<<< HEAD
+
         System.out.println("java");
         System.out.println("hello");
-=======
-int a=6;
-        
->>>>>>> 01b0d590705d72825c8062c4881a6349ef469e5d
+
     }
 }

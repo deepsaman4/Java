@@ -17,12 +17,10 @@ while(i<10){
 }
  for (i=1;i<11;i++){
      System.out.println(i);
-<<<<<<< HEAD
-     System.out.println("java");
-=======
+
      int a=8;
      int b=9;
->>>>>>> 01b0d590705d72825c8062c4881a6349ef469e5d
+
  }
     }
 }
